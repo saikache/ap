@@ -26,8 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# gem 'ember-rails'
-# gem 'ember-source'
+			# gem 'ember-rails'
+			# gem 'ember-source'
 # gem 'emblem-rails'
 # gem 'haml-rails'
 gem 'ember-rails'
