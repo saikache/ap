@@ -35,7 +35,7 @@ gem 'ember-source'
 
 
 gem 'devise'
-# Use Unicorn as the app server
+## Use Unicorn as the app server
 # gem 'unicorn'
 
 # Use Capistrano for deployment
