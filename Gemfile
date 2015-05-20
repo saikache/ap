@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'ember-rails'
 gem 'ember-source'
 
-
+gem 'active-admin'
 gem 'devise'
 # Use Unicorn as the app server
 # gem 'unicorn'
